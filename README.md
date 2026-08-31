@@ -3,7 +3,7 @@
 [![Paper](https://img.shields.io/badge/Paper-MLSB%202025-blue)](https://openreview.net/pdf?id=TZTahjQNjX)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Official implementation of **"FlashBind: Towards Accurate and Efficient Structure-based Virtual Screening"** and **"FlashAffinity: Bridging the Accuracy-Speed Gap in Protein-Ligand Binding Affinity Prediction"**, Accepted at **MLSB Workshop 2025**.
+Official implementation of **"FlashBind: Towards Accurate and Efficient Structure-based Virtual Screening"**, Accepted at **TMLR 2026**.
 
 A ultra-fast protein-ligand affinity prediction framework supporting multiple prediction tasks: binary activity classification, enzyme-substrate interaction prediction, and affinity value regression.
 
@@ -37,11 +37,10 @@ conda activate flashaffinity
 ## Citation
 
 ```bibtex
-@article {Jiang2025.12.22.695983,
-	author = {Jiang, Songlin and Chen, Yifan and Cao, Ze and Jin, Wengong},
-	title = {FlashAffinity: Bridging the Accuracy-Speed Gap in Protein-Ligand Binding Affinity Prediction},
-	year = {2025},
-	journal = {bioRxiv}
+@article{jiang2025flashbind,
+  title={FlashBind: Towards Accurate and Efficient Structure-based Virtual Screening},
+  author={Jiang, Songlin and Chen, Yifan and Krishnan, Aarti and Zhang, Yu and Jin, Wengong},
+  journal={bioRxiv},
 }
 ```
 
