@@ -1,6 +1,6 @@
 # FlashBind
 
-[![Paper](https://img.shields.io/badge/Paper-MLSB%202025-blue)](https://openreview.net/pdf?id=TZTahjQNjX)
+[![Paper](https://img.shields.io/badge/Paper-TMLR%202026-blue)](https://openreview.net/pdf?id=2D91AcVcMi)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Official implementation of **"FlashBind: Towards Accurate and Efficient Structure-based Virtual Screening"**, Accepted at **TMLR 2026**.
